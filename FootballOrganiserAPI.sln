@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballOrganiserAPI", "WebApplication1\FootballOrganiserAPI.csproj", "{FDDE0FA2-692D-4848-9D5E-7496BEC39A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballOrganiserAPI.Tests", "FootballOrganiserAPI.Tests\FootballOrganiserAPI.Tests.csproj", "{A6EED0DD-785A-4529-88E5-6C245EC1913D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDDE0FA2-692D-4848-9D5E-7496BEC39A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDE0FA2-692D-4848-9D5E-7496BEC39A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDE0FA2-692D-4848-9D5E-7496BEC39A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDE0FA2-692D-4848-9D5E-7496BEC39A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EED0DD-785A-4529-88E5-6C245EC1913D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EED0DD-785A-4529-88E5-6C245EC1913D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EED0DD-785A-4529-88E5-6C245EC1913D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EED0DD-785A-4529-88E5-6C245EC1913D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
