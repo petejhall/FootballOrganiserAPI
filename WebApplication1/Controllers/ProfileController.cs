@@ -15,7 +15,7 @@ namespace WebApplication1.Controllers
 
         public string[] get()
         {
-            return new string[] { "pete", "hall" };
+            return new string[] { "pete1", "hall" };
 
         }
 
